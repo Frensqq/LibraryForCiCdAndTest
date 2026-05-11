@@ -15,7 +15,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyDescriptionAttribute("Dll library for test CICD and UnitTest")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b37b5fac22d9c4c49f7c8ad31de4da032b4c7897")]
 [assembly: System.Reflection.AssemblyProductAttribute("LibraryForCiCdAndTest")]
 [assembly: System.Reflection.AssemblyTitleAttribute("LibraryForCiCdAndTest")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
