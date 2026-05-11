@@ -347,7 +347,7 @@
           }
         }
       },
-      "Frensqq.LibraryForCiCdAndTest/1.0.0": {
+      "Frensqq.LibraryForCiCdAndTest/1.0.1": {
         "type": "project",
         "framework": ".NETFramework,Version=v4.7.2",
         "compile": {
@@ -804,7 +804,7 @@
         "version.txt"
       ]
     },
-    "Frensqq.LibraryForCiCdAndTest/1.0.0": {
+    "Frensqq.LibraryForCiCdAndTest/1.0.1": {
       "type": "project",
       "path": "../LibraryForCiCdAndTest/LibraryForCiCdAndTest.csproj",
       "msbuildProject": "../LibraryForCiCdAndTest/LibraryForCiCdAndTest.csproj"
@@ -812,7 +812,7 @@
   },
   "projectFileDependencyGroups": {
     "net9.0": [
-      "Frensqq.LibraryForCiCdAndTest >= 1.0.0",
+      "Frensqq.LibraryForCiCdAndTest >= 1.0.1",
       "Microsoft.NET.Test.Sdk >= 17.12.0",
       "NUnit >= 4.2.2",
       "NUnit.Analyzers >= 4.4.0",
