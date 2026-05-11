@@ -5,6 +5,8 @@ VisualStudioVersion = 17.14.36908.2 d17.14
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "LibraryForCiCdAndTest", "LibraryForCiCdAndTest\LibraryForCiCdAndTest.csproj", "{DE0C8DF0-0B5A-4DB0-B297-573DF84B6DE5}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestLibrary", "TestLibrary\TestLibrary.csproj", "{5AB0037F-748C-4A8D-93C7-5CBF052A0DEC}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -15,6 +17,10 @@ Global
 		{DE0C8DF0-0B5A-4DB0-B297-573DF84B6DE5}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{DE0C8DF0-0B5A-4DB0-B297-573DF84B6DE5}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{DE0C8DF0-0B5A-4DB0-B297-573DF84B6DE5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5AB0037F-748C-4A8D-93C7-5CBF052A0DEC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5AB0037F-748C-4A8D-93C7-5CBF052A0DEC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5AB0037F-748C-4A8D-93C7-5CBF052A0DEC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5AB0037F-748C-4A8D-93C7-5CBF052A0DEC}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

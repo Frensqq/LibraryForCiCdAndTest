@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Frensqq.LibraryForCiCdAndTest</id>
+    <version>1.0.0</version>
+    <authors>LibraryForCiCdAndTest</authors>
+    <description>Dll library for test CICD and UnitTest</description>
+    <repository type="git" commit="a505413c5465b0524fd1a032298cfe4a703e7190" />
+    <dependencies>
+      <group targetFramework=".NETFramework4.7.2" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="W:\Colledge\02.02\LibraryForCiCdAndTest\LibraryForCiCdAndTest\bin\Debug\net472\LibraryForCiCdAndTest.dll" target="lib\net472\LibraryForCiCdAndTest.dll" />
+  </files>
+</package>

@@ -11,13 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("LibraryForCiCdAndTest")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("TestLibrary")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
-[assembly: System.Reflection.AssemblyDescriptionAttribute("Dll library for test CICD and UnitTest")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a505413c5465b0524fd1a032298cfe4a703e7190")]
-[assembly: System.Reflection.AssemblyProductAttribute("LibraryForCiCdAndTest")]
-[assembly: System.Reflection.AssemblyTitleAttribute("LibraryForCiCdAndTest")]
+[assembly: System.Reflection.AssemblyProductAttribute("TestLibrary")]
+[assembly: System.Reflection.AssemblyTitleAttribute("TestLibrary")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Создано классом WriteCodeFragment MSBuild.

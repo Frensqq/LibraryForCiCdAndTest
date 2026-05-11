@@ -1,0 +1,10 @@
+W:\Colledge\02.02\LibraryForCiCdAndTest\LibraryForCiCdAndTest\bin\Debug\net472\LibraryForCiCdAndTest.dll
+W:\Colledge\02.02\LibraryForCiCdAndTest\LibraryForCiCdAndTest\bin\Debug\net472\LibraryForCiCdAndTest.pdb
+W:\Colledge\02.02\LibraryForCiCdAndTest\LibraryForCiCdAndTest\obj\Debug\net472\LibraryForCiCdAndTest.csproj.AssemblyReference.cache
+W:\Colledge\02.02\LibraryForCiCdAndTest\LibraryForCiCdAndTest\obj\Debug\net472\LibraryForCiCdAndTest.GeneratedMSBuildEditorConfig.editorconfig
+W:\Colledge\02.02\LibraryForCiCdAndTest\LibraryForCiCdAndTest\obj\Debug\net472\LibraryForCiCdAndTest.AssemblyInfoInputs.cache
+W:\Colledge\02.02\LibraryForCiCdAndTest\LibraryForCiCdAndTest\obj\Debug\net472\LibraryForCiCdAndTest.AssemblyInfo.cs
+W:\Colledge\02.02\LibraryForCiCdAndTest\LibraryForCiCdAndTest\obj\Debug\net472\LibraryForCiCdAndTest.csproj.CoreCompileInputs.cache
+W:\Colledge\02.02\LibraryForCiCdAndTest\LibraryForCiCdAndTest\obj\Debug\net472\LibraryForCiCdAndTest.sourcelink.json
+W:\Colledge\02.02\LibraryForCiCdAndTest\LibraryForCiCdAndTest\obj\Debug\net472\LibraryForCiCdAndTest.dll
+W:\Colledge\02.02\LibraryForCiCdAndTest\LibraryForCiCdAndTest\obj\Debug\net472\LibraryForCiCdAndTest.pdb
